@@ -2,11 +2,11 @@
 ## English
 This repository houses an R script developed by our team for conducting various statistical analyses on data collected firsthand. The objective was to provide a tailored market solution for a small company in the agricultural sector.
 
-The file is complementary to the technical note "Acceptability and Purchase Intention of Tomato-Based Sauces in the GAM, Costa Rica" published in the scientific journal e-agronegocios.
+The script is complementary to the technical note "Acceptability and purchase intention of tomato-based sauces in GAM, Costa Rica," published in the scientific journal e-agribusiness. Therefore, I recommend reading the article to better understand the complete work carried out by the team. Additionally, feel free to review my projects portfolio for more details about the project.
 
-Article: https://doi.org/10.18845/ea.v9i1.6551
+Article: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
-More about the project: https://rubenapa.github.io/index.html
+More about the project: https://rubenapa.github.io/Home-E.html
 
 ### Business Problem:
 The script is complementary to the technical note "Acceptability and Purchase Intention of Tomato-Based Sauces in the GAM, Costa Rica" published in the scientific journal e-agronegocios.
@@ -21,13 +21,11 @@ Following the data collection phase and document preparation, multiple statistic
 ## Spanish
 Este repositorio alberga un script en R desarrollado por nuestro equipo para realizar diversos análisis estadísticos en datos recolectados de primera mano. El objetivo era proporcionar una solución de mercado personalizada para una pequeña empresa en el sector agrícola.
 
-El proyecto es complementario a la nota técnica "Aceptabilidad e intención de compra de salsas a base de tomate en el GAM, Costa Rica" publicado en la revista científica e-agronegocios. Por lo que recomiendo la lectura del artículo para entender mejor el trabajo completo realizado por el equipo.
+El script es complementario a la nota técnica "Aceptabilidad e intención de compra de salsas a base de tomate en el GAM, Costa Rica" publicado en la revista científica e-agronegocios. Por lo que recomiendo la lectura del artículo para entender mejor el trabajo completo realizado por el equipo. Y a su vez revisar mi portafolio de proyectos para ver más acerca del proyecto.
 
-El archivo es complementario a la nota técnica "Aceptabilidad e Intención de Compra de Salsas a Base de Tomate en el GAM, Costa Rica" publicada en la revista científica e-agronegocios.
+Artículo: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
-Artículo: https://doi.org/10.18845/ea.v9i1.6551
-
-Más sobre el proyecto: https://rubenapa.github.io/index.html
+Portafolio: https://rubenapa.github.io/Home-S.html
 
 ### Problema Agroempresarial:
 Una organización del sector agroindustrial buscaba obtener información de mercado en el GAM de Costa Rica, para conocer la aceptabilidad e intención de compra de las personas con respecto a su producto en comparación con otros competidores sobresalientes y determinar una estrategia de mercado para comercializarlo en la zona, así como determinar los gustos y preferencias de los potenciales clientes. Para ello, se determinó la implementación de un panel sensorial en donde se obtendría la opinión de las personas del mercado objetivo sobre 4 diferentes tipos de salsas a base de tomate (tipo italiana) incluyendo la de la empresa en cuestión.
