@@ -4,7 +4,7 @@ This repository houses an R script developed by our team for conducting various 
 
 The script is complementary to the technical note "Acceptability and purchase intention of tomato-based sauces in GAM, Costa Rica" published in the scientific journal e-agribusiness. Therefore, I recommend reading the article to better understand the complete work carried out by the team. Additionally, feel free to review my projects portfolio for more details about the project.
 
-Article: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
+Technical note: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
 More about the project: https://rubenapa.github.io/Home-E.html
 
@@ -22,7 +22,7 @@ Este repositorio alberga un script en R desarrollado por nuestro equipo para rea
 
 El script es complementario a la nota técnica "Aceptabilidad e intención de compra de salsas a base de tomate en el GAM, Costa Rica" publicado en la revista científica e-agronegocios. Por lo que recomiendo la lectura del artículo para entender mejor el trabajo completo realizado por el equipo. Y a su vez revisar mi portafolio de proyectos para ver más acerca del proyecto.
 
-Artículo: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
+Nota técnica: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
 Portafolio: https://rubenapa.github.io/Home-S.html
 
