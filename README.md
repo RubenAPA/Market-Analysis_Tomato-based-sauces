@@ -9,7 +9,6 @@ Article: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 More about the project: https://rubenapa.github.io/Home-E.html
 
 ### Business Problem:
-The script is complementary to the technical note "Acceptability and Purchase Intention of Tomato-Based Sauces in the GAM, Costa Rica" published in the scientific journal e-agronegocios.
 An organization in the agro-industrial sector sought to gather market information in the GAM (Greater Metropolitan Area) of Costa Rica. The objective was to understand the acceptability and purchase intention of individuals regarding their product compared to other prominent competitors. The aim was to determine a marketing strategy to promote the product in the area and identify the tastes and preferences of potential customers. To achieve this, the implementation of a sensory panel was decided, where opinions of individuals from the target market would be collected regarding four different types of tomato-based sauces (Italian style), including the one produced by the company in question.
 
 Following the data collection phase and document preparation, multiple statistical analyses were conducted in R Studio to obtain reliable results regarding the market behavior towards the products. Additionally, the company had a need to understand the opinions provided by individuals in the sample. Therefore, some information was collected through open-ended questions and comments used to identify aspects for improvement in the current product of the organization.
