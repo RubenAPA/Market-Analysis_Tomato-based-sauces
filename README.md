@@ -24,7 +24,7 @@ El script es complementario a la nota técnica "Aceptabilidad e intención de co
 
 Nota técnica: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
-Portafolio: https://rubenapa.github.io/Home-S.html
+Más acerca del proyecto: https://rubenapa.github.io/Home-S.html
 
 ### Problema Agroempresarial:
 Una organización del sector agroindustrial buscaba obtener información de mercado en el GAM de Costa Rica, para conocer la aceptabilidad e intención de compra de las personas con respecto a su producto en comparación con otros competidores sobresalientes y determinar una estrategia de mercado para comercializarlo en la zona, así como determinar los gustos y preferencias de los potenciales clientes. Para ello, se determinó la implementación de un panel sensorial en donde se obtendría la opinión de las personas del mercado objetivo sobre 4 diferentes tipos de salsas a base de tomate (tipo italiana) incluyendo la de la empresa en cuestión.
