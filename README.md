@@ -2,7 +2,7 @@
 ## English
 This repository houses an R script developed by our team for conducting various statistical analyses on data collected firsthand. The objective was to provide a tailored market solution for a small company in the agricultural sector.
 
-The script is complementary to the technical note "Acceptability and purchase intention of tomato-based sauces in GAM, Costa Rica" published in the scientific journal e-agribusiness. Therefore, I recommend reading the article to better understand the complete work carried out by the team. Additionally, feel free to review my projects portfolio for more details about the project.
+The script is complementary to the technical note "Acceptability and purchase intention of tomato-based sauces in GAM, Costa Rica" published in the scientific journal e-agronegocios. Therefore, I recommend reading the article to better understand the complete work carried out by the team. Additionally, feel free to review my projects portfolio for more details about the project.
 
 Technical note: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
