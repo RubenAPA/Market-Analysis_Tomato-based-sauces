@@ -6,7 +6,7 @@ The script is complementary to the technical note "Acceptability and purchase in
 
 Technical note: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
-More about the project: https://rubenapa.github.io/Home-E.html
+More about the project: https://rubenapa.github.io/index.html
 
 ### Business Problem:
 An organization in the agro-industrial sector sought to gather market information in the GAM (Greater Metropolitan Area) of Costa Rica. The objective was to understand the acceptability and purchase intention of individuals regarding their product compared to other prominent competitors. The aim was to determine a marketing strategy to promote the product in the area and identify the tastes and preferences of potential customers. To achieve this, the implementation of a sensory panel was decided, where opinions of individuals from the target market would be collected regarding four different types of tomato-based sauces (Italian style), including the one produced by the company in question.
@@ -24,7 +24,7 @@ El script es complementario a la nota técnica "Aceptabilidad e intención de co
 
 Nota técnica: https://revistas.tec.ac.cr/index.php/eagronegocios/article/view/6551
 
-Más acerca del proyecto: https://rubenapa.github.io/Home-S.html
+Más acerca del proyecto: https://rubenapa.github.io/index-S.html
 
 ### Problema Agroempresarial:
 Una organización del sector agroindustrial buscaba obtener información de mercado en el GAM de Costa Rica, para conocer la aceptabilidad e intención de compra de las personas con respecto a su producto en comparación con otros competidores sobresalientes y determinar una estrategia de mercado para comercializarlo en la zona, así como determinar los gustos y preferencias de los potenciales clientes. Para ello, se determinó la implementación de un panel sensorial en donde se obtendría la opinión de las personas del mercado objetivo sobre 4 diferentes tipos de salsas a base de tomate (tipo italiana) incluyendo la de la empresa en cuestión.
